@@ -23,6 +23,6 @@ alias exp="thunar"
 alias paci="sudo pacman -S"
 alias pacr="sudo pacman -Rns"
 alias pacl="pacman -Q"
-alias mysetwacom='xsetwacom --set "Wacom One by Wacom S Pen stylus" MapToOutput eDP-1; xsetwacom --set "Wacom One by Wacom S Pen eraser" MapToOutput eDP-1'
+alias mysetwacom='xsetwacom --set "Wacom One by Wacom S Pen stylus" MapToOutput HEAD-0; xsetwacom --set "Wacom One by Wacom S Pen eraser" MapToOutput HEAD-0'
 
 . $HOME/.asdf/asdf.sh
