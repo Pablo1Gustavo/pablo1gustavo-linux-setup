@@ -1,4 +1,4 @@
-HOST_PROMPT_="$FG[009][%T]$FG[202](ᗜˬᗜ) $FG[160]%n in $FG[009]%c"
+HOST_PROMPT_="$FG[009][%T]$FG[202](ᗜˬᗜ) $FG[160]%n $FG[202]in $FG[009]%c"
 
 ZSH_THEME_GIT_PROMPT_PREFIX=" $FG[202]and $FG[160]git on $FG[009]"
 ZSH_THEME_GIT_PROMPT_SUFFIX="$reset_color"
